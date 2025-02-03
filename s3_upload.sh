@@ -17,5 +17,6 @@ echo "Private IP: $PRIVATE_IP"
 echo "Security Groups: $SECURITY_GROUPS"
 echo "Operating Systems: $OS_NAME $OS_VERSION"
 echo "Users with shell access:"
+echo "$USERS"
 } > "$FILE_NAME"
 
