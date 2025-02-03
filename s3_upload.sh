@@ -20,3 +20,4 @@ echo "Users with shell access:"
 echo "$USERS"
 } > "$FILE_NAME"
 
+aws s3 cp $FILE_NAME s3://applicant-task/r2d2/
