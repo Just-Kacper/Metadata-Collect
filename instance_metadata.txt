@@ -1,6 +1,0 @@
-Instance ID: i-06b34ed13f021fb37
-Public IP: 79.125.92.21
-Private IP: 172.31.18.110
-Security Groups: r2d2-sg
-Operating Systems: Ubuntu 24.04.1 LTS (Noble Numbat)
-Users with shell access:
