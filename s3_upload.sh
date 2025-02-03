@@ -19,6 +19,3 @@ echo "Operating Systems: $OS_NAME $OS_VERSION"
 echo "Users with shell access:"
 } > "$FILE_NAME"
 
-aws s3 cp $FILE_NAME s3://applicant-task/r2d2/
-
-echo "S3 INSTANCES SENT"
