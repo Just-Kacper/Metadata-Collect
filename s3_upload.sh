@@ -21,3 +21,4 @@ echo "Users with shell access:"
 
 aws s3 cp $FILE_NAME s3://applicant-task/r2d2/
 
+echo "S3 INSTANCES SENT"
